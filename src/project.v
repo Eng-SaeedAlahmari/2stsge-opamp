@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt08-ssp-opamp (
+module tt_um_ssp_opamp (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply

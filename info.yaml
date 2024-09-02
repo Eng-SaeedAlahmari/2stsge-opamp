@@ -15,7 +15,7 @@ project:
   uses_3v3: false       # Set to true if your project uses 3.3V (VAPWR) in addition to 1.8V (VDPWR)
 
   # Your top module name must start with "tt_um_". Make it unique by including your github username:
-  top_module:  "tt08-ssp-opamp"
+  top_module:  "tt_um_ssp_opamp"
 
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
@@ -54,12 +54,12 @@ pinout:
   uio[7]: ""
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
-  ua[0]: ""
-  ua[1]: ""
-  ua[2]: ""
-  ua[3]: ""
-  ua[4]: ""
-  ua[5]: ""
+  ua[0]: "Vout_POR"
+  ua[1]: "Va_POR"
+  ua[2]: "OUT_Maj"
+  ua[3]: "OUT_Amr"
+  ua[4]: "INN"
+  ua[5]: "INP"
 
 # Do not change!
 yaml_version: 6
