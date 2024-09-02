@@ -13,7 +13,7 @@ This project contains 2-stage opamps designed by participants of VLSI training c
 
 ## How to test
 
-Explain how to use your project
+It consists of 2 type of circuits: Opamp and POR
 
 ## External hardware
 
