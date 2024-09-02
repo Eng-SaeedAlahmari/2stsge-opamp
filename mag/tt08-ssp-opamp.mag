@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1725184496
+timestamp 1725256794
 << viali >>
 rect 19684 1460 22372 1774
 << metal1 >>
@@ -354,10 +354,10 @@ rect 26690 566 26691 766
 rect 26271 565 26691 566
 rect 26498 0 26678 565
 rect 30362 0 30542 13341
-use OPAMP  OPAMP_0 ~/design_submissions_tt08/amr_abdelrahman/magic
-timestamp 1725172254
+use OPAMP  OPAMP_0 ~/design_submissions_tt08/amr_abdelrahman/magic_sept01
+timestamp 1725256412
 transform 1 0 3808 0 1 7086
-box -1418 -5660 14728 1024
+box -1418 -5660 14714 1024
 use OPAMP_LAYOUT  OPAMP_LAYOUT_0 ~/design_submissions_tt08/majid_sami/Majid_OpAmp/magic
 timestamp 1725008763
 transform 1 0 19730 0 1 4568

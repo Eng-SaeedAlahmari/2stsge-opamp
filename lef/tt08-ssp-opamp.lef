@@ -459,8 +459,6 @@ MACRO tt08-ssp-opamp
         RECT 95.150 0.100 112.770 1.400 ;
         RECT 114.470 0.100 132.090 1.400 ;
         RECT 133.790 0.100 151.410 1.400 ;
-      LAYER met5 ;
-        RECT 38.650 8.680 92.680 39.490 ;
   END
 END tt08-ssp-opamp
 END LIBRARY
